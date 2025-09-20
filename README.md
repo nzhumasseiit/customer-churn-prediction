@@ -21,6 +21,10 @@ I built a machine learning pipeline to predict customer churn for a telecom comp
 - Short-tenure (<1 year) and month-to-month customers churn more
 - High "CostPerMonth" and electronic check users show elevated churn risk
 
+ # Visualizations
+![Churn by Payment Method](https://github.com/nzhumasseiit/customer-churn-prediction/blob/main/churn_payment.png)
+![Top 10 Feature Importances](https://github.com/nzhumasseiit/customer-churn-prediction/blob/main/feature_importance.png)
+
 # How to Run
 1. Clone this repo.
 2. Upload "WA_Fn-UseC_-Telco-Customer-Churn.csv" from Kaggle to Colab
