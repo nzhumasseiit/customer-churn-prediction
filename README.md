@@ -26,4 +26,4 @@ I built a machine learning pipeline to predict customer churn for a telecom comp
 2. Upload "WA_Fn-UseC_-Telco-Customer-Churn.csv" from Kaggle to Colab
 3. Run the notebook ("churn_prediction.ipynb")
 
-Link to notebook: 
+[Link to notebook: customer_churn_prediction.ipynb] (https://github.com/nzhumasseiit/customer-churn-prediction/blob/main/Customer_Churn_Prediction.ipynb)
